@@ -10,6 +10,8 @@ There are five main files in this repo:
 4. CNNs - contains code for the development of convolutional neural network models
 5. Model ensemble - contains code for the final models as well as the ensembling code
 
+Demo video: https://drive.google.com/file/d/1E0NDjaDsZ_i3L-6h2r4cx0KDikWzyfI0/view
+
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/98543191/227803559-dca80418-b599-4cd1-92c1-e34bf2871e30.png">
 
 
